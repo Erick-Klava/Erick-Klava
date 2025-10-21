@@ -8,7 +8,7 @@
 
 ### 🧠 About Me
 - 🎓 Dual degree student in **Computer Science** and **Software Engineering** (Rio de Janeiro, Brazil)  
-- 💡 Experienced with **Java, Python, C, C++, JavaScript**  
+- 💡 Experienced with **Java, Python, C, C++, JavaScript,HTML**  
 - 🔧 Skilled in **RESTful APIs**, **SQL/NoSQL databases**, and **clean architecture**  
 - ⚙️ Familiar with **Git**, **Linux**, **CI/CD**, and **agile methodologies (Scrum, XP)**  
 - 🌍 Fluent in English | Native Portuguese | Intermediate Spanish  
@@ -16,7 +16,7 @@
 ---
 
 ### 🧩 What I’m Working On
-- 🛠️ Building scalable backend applications with **Spring Boot** and **Express.js**  
+- 🛠️ Building and studying scalable microservices and RESTful APIs
 - 🎨 Experimenting with **React** and improving my frontend integration skills  
 - 🔍 Strengthening knowledge in **data structures**, **algorithms**, and **system design**
 
